@@ -1,0 +1,17 @@
+.background-img-header{
+  background-image: url("bluetooth-hose.png");
+  height: 28vh;
+  width: 100%;
+  background-position: center;
+}
+
+.map-img-header{
+  background-image: url("Map-Pic.PNG");
+  height: 28vh;
+  background-position: center;
+}
+
+footer{
+  height: 20vh;
+}
+
